@@ -2,5 +2,5 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-Akki Pakki Ka Kari Rora
+## Website Contents
+1. index.html
